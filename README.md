@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @chandansingh790
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m a Software Engineer.
+- 👀 Technologies - React, JavaScript, jQuery, PHP, CodeIgniter, MySql, HTML, CSS.
+- 📫 Loading soon..
 
 <!---
 chandansingh790/chandansingh790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
